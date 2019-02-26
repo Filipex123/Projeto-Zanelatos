@@ -1,0 +1,28 @@
+/*#wrapper{ 
+    display: block;
+    
+}*/
+
+fieldset{
+    display: inline;
+    border-color: brown;  
+}
+#contato{
+    position: relative;
+     height: 110px;
+}
+#delivery{
+    margin: 0%;
+    height: auto;
+    max-width: 100%;    
+}
+figure [alt="delivery"] {
+    display: block;
+    width: 160px;
+
+}
+figure [alt="dugatus_img"]{
+    padding: 0%;
+    height: 325px;
+    max-width: 100%;
+}
